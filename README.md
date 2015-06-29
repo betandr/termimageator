@@ -14,10 +14,10 @@ To run pickle/unpickle use `bundle exec ruby pickle_unpickle.rb filename.png` wh
 
 ##hmmkay
 
-So, the pickling and unpicking thing is all well and good, the real point of this is to display an image in the terminal using `bundle exec display.rb filename.png` which changes
+So, the pickling and unpicking thing is all well and good, the real point of this is to display an image in the terminal using `bundle exec display.rb filename.png` which displays
 
 ![Input Image](https://raw.githubusercontent.com/betandr/termimageator/master/beemo.png)
 
-..to:
+..in the terminal as:
 
 ![Output Image](https://raw.githubusercontent.com/betandr/termimageator/master/beemo_output.png)
