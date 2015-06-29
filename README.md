@@ -1,6 +1,6 @@
 # term-image-ator
 
-Simple Ruby code to display an image on the terminal. Uses 'pickling' to turn an image into a simple hash containing rows of pixels.
+Simple Ruby code to display an image on the terminal. Uses 'pickling' to turn an image into a simple hash containing rows of pixels which can be pasted into code to draw an image from code.
 
 #dependencies
 
